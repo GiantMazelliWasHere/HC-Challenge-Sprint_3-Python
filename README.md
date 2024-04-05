@@ -5,7 +5,7 @@ Integrantes:
 - Carolina Cavalli Machado - 552925
 - Edson Leonardo Pacheco Navia - 553737
 - Eduardo Mazelli - 553236
-- Nathan da Silveira Uflacker
+- Nathan da Silveira Uflacker - 553264
 
 Funcionalidades:
 
